@@ -55,13 +55,14 @@ Liu An, but the world beyond.
 
 ### Level 3
 * **Ability Boost**: Int (+2)
+  * **Skill Increase**: Diplomacy (T)
+  * **Language**: Empyrean
 * **General Feat**: Ancestral Paragon
   * **Ancestry Feat**: Natural Ambition
     * **Kineticist Feat**: Winter's Clutch
-* **Skill Increase**: Athletics (E), Diplomacy (T)
+* **Skill Increase**: Athletics (E)
 * **Additional Lore**: Lore: Library (E), Lore: Liu An (E)
 * **Skills**: Acrobatics (T), Athletics (E), Diplomacy (T), Medicine (E), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (E), Lore: Liu An (E)
-* **Language**: Empyrean
 
 ### Level 4
 * **Ability Boost**: Str (+1)
