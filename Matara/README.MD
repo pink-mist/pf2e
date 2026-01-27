@@ -38,7 +38,8 @@ recognised her Oni heritage, or if they did, they didn't realise how terrifying 
 just based on her size alone she easily got hired as a bouncer or body guard for various saloons and patrons in the city. She got paid
 well, and she grew even larger as time went by. Over the next 10 years she made enough money to get a comfortable appartment, some decent
 body guard gear, and plenty of food every day. She didn't stay with a single employer very long, but all of them were still alive when
-she left their service, so her reputation grew. This was finally home.
+she left their service, so her reputation grew. Eventually she joined a bodyguard organisation called The Silver Gauntlet. This was
+finally home.
 
 And then she got a job from Ambrost Mugland. She had heard of him, and knew he would be able to pay well so she eagerly accepted. The job
 was simple: be his body guard for the next week while he attended to some business. Half payment up front, other half after the week if
@@ -50,6 +51,16 @@ you worry."
 
 It was obvious: her new employer Ambrost Mugland was trying to have her arrested. Another betrayal. Another city who fears her just
 because she's different. "Not again! I refuse to accept it!"
+
+## Details
+* **Deity**: None, but enjoys the teachings of Nocticula
+* **Age**: 19
+* **Height**: 8 feet
+* **Skin tone**: Red
+* **Hair**: Curly red
+* **Eyes**: Golden
+* **Horns**: Not very large, she usually wears horn extenders to make them look bigger
+* **Languages**: Common, Tien, Orcish
 
 ## Stats
 
@@ -69,7 +80,6 @@ because she's different. "Not again! I refuse to accept it!"
   * **Background**: Hefty Hauler
   * **Exemplar**: Ancestral Might
   * **Exemplar**: Shield Block
-* **Languages**: Common, Tien, Orcish
 * **Speed**: 25 feet
 * **Special Abilities**: Darkvision, Horns unarmed attack (1d6P in brawling group)
 
