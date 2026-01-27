@@ -89,4 +89,5 @@ Liu An, but the world beyond.
 * **Attribute Boost**: Con (+5)
 * **General Feat**: Robust Health
 * **Skill Increase**: Medicine (M)
-* **Skills**: Acrobatics (T), Athletics (E), Diplomacy (E), Medicine (M), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (E), Lore: Liu An (E)
+* **Additional Lore**: Lore: Library (M), Lore: Liu An (M)
+* **Skills**: Acrobatics (T), Athletics (E), Diplomacy (E), Medicine (M), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (M), Lore: Liu An (M)
