@@ -44,9 +44,9 @@ finally home.
 And then she got a job from Ambrost Mugland. She had heard of him, and knew he would be able to pay well so she eagerly accepted. The job
 was simple: be his body guard for the next week while he attended to some business. Half payment up front, other half after the week if
 nothing untoward had happened. Matara was just going home after the first day on the job, and as she rounded a corner she saw her place
-surrounded by the Shield Marshals. She didn't know what had happened, but it must have something to do with the new job. She hurried back
-to Ambrost, thinking he must be made aware that the Shield Marshals were looking for her in relation to him, and as she got back to his
-compound, she saw him chatting with one of the Shield Marshals and overheard something about "That red devil will soon be captured, don't
+surrounded by the Shieldmarshals. She didn't know what had happened, but it must have something to do with the new job. She hurried back
+to Ambrost, thinking he must be made aware that the Shieldmarshals were looking for her in relation to him, and as she got back to his
+compound, she saw him chatting with one of the Shieldmarshals and overheard something about "That red devil will soon be captured, don't
 you worry."
 
 It was obvious: her new employer Ambrost Mugland was trying to have her arrested. Another betrayal. Another city who fears her just
