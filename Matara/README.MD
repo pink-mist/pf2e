@@ -78,7 +78,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **Feats**:
   * **Ancestry**: Oni Weapon Familiarity
   * **Background**: Hefty Hauler
-  * **Exemplar**: [Ancestral Might](Ancestral Might.MD)
+  * **Exemplar**: [Ancestral Might](Ancestral%20Might.MD)
   * **Exemplar**: Shield Block
 * **Speed**: 25 feet
 * **Special Abilities**: Darkvision, Horns unarmed attack (1d6P in brawling group)
