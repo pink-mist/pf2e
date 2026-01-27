@@ -80,6 +80,7 @@ because she's different. "Not again! I refuse to accept it!"
   * **Background**: Hefty Hauler
   * **Exemplar**: [Ancestral Might](Ancestral%20Might.MD)
   * **Exemplar**: Shield Block
+  * **Bonus Feat**: [I, Endure](I,%20Endure.MD)
 * **Speed**: 25 feet
 * **Special Abilities**: Darkvision, Horns unarmed attack (1d6P in brawling group)
 
