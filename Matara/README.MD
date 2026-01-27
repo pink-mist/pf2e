@@ -50,3 +50,70 @@ you worry."
 
 It was obvious: her new employer Ambrost Mugland was trying to have her arrested. Another betrayal. Another city who fears her just
 because she's different. "Not again! I refuse to accept it!"
+
+## Stats
+
+### Level 1
+* **Ancestry**: Hungerseed Orc
+* **Background**: Junker
+* **Class**: Exemplar
+* **Ikons**: Scar of the Survivor, Gaze Sharp as Steel, Barrow's Edge
+* **Attributes**: Str +4, Dex + 3, Con +1, Int +0, Wis +0, Cha +1
+  * Ancestry: Str, Dex
+  * Background: Str, Dex
+  * Class: Str
+  * Base: Str, Dex, Con, Cha
+* **Skills**: Acrobatics (T), Athletics (T), Deception (T), Intimidation (T), Religion (T), Junkyard Lore (T)
+* **Feats**:
+  * **Ancestry**: Oni Weapon Familiarity
+  * **Background**: Hefty Hauler
+  * **Exemplar**: Ancestral Might
+  * **Exemplar**: Shield Block
+* **Languages**: Common, Tien, Orcish
+* **Speed**: 25 feet
+* **Special Abilities**: Darkvision, Horns unarmed attack (1d6P in brawling group)
+
+### Level 2
+* **Ability Boost**: Con (+2)
+* **Exemplar Feat**: Leap the Falls
+  * **Skill Feat**: Powerful Leap
+  * **Skill Feat**: Quick Jump
+* **Skill Feat**: Intimidating Glare
+* **Free Archetype**: Fighter Dedication
+  * **Trained in Skill**: Thievery
+* **Skills**: Acrobatics (T), Athletics (T), Deception (T), Intimidation (T), Religion (T), Thievery (T), Junkyard Lore (T)
+
+### Level 3
+* **Ability Boost**: Cha (+2)
+* **Skill Increase**: Athletics
+* **General Feat**: Fleet
+* **Root Epithet**: The Brave
+  * **Trained in Skill**: Stealth
+* **Speed**: 30 feet
+* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (T), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+
+### Level 4
+* **Ability Boost**: Dex (+4)
+* **Exemplar Feat**: Basic Maneuver (Fighter Dedication)
+  * **Fighter Feat**: Lunge
+* **Skill Feat**: Rapid Mantel
+* **Free Archetype**: Reactive Striker (Fighter Dedication)
+
+### Level 5
+* **Ability Boost**: Str (+4+)
+* **Ancestry Feat**: Oni Form
+* **Skill Increase**: Intimidation
+* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+
+### Level 6
+* **Exemplar Feat**: Motionless Cutter
+* **Skill Feat**: Intimidating Prowess
+* **Free Archetype**: Advanced Maneuver (Fighter Dedication)
+  * **Fighter Feat**: Intimidating Strike
+
+### Level 7
+* **Ability Boost**: Str (+5)
+* **General Feat**:
+* **Skill Increase**: Athletics
+* **Dominion Epithet**:
+* **Skills**: Acrobatics (T), Athletics (M), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
