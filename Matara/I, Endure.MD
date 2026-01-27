@@ -2,7 +2,7 @@
 ### Feat 1
 ***Source**: Homebrew*
 
-* **Trigger**: You would be Frightened
+* **Trigger**: You would be *frightened*
 
 Matara learned early that survival was not kindness. It was refusal.
 
