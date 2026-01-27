@@ -1,3 +1,5 @@
+![Matara](Matara.png)
+
 ## Background
 Matara was born to a nomadic Orc tribe in Tian Xia, but her red skin made her an outsider from the moment she was born; she was feared
 by her tribe who knew how the great Onis would terrorise them on their wanderings. Her mother wouldn't have even wanted to let her suckle
