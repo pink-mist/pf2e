@@ -1,4 +1,4 @@
-![Miyamoto Daisuke](miyamoto-daisuke.png)
+![Miyama Daisuke](miyama-daisuke.png)
 
 ## Background
 Miyama Daisuke was born into a wealthy family in Liu An where he enjoyed the finest education his parents
