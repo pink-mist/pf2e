@@ -96,10 +96,10 @@ because she's different. "Not again! I refuse to accept it!"
 ### Level 3
 * **Ability Boost**: Cha (+2)
 * **Skill Increase**: Athletics
-* **General Feat**: Fleet
+* **General Feat**: Ancestral Paragon
+  * **Ancestry Feat**: Oni Form
 * **Root Epithet**: The Brave
   * **Trained in Skill**: Stealth
-* **Speed**: 30 feet
 * **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (T), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
 
 ### Level 4
@@ -111,7 +111,7 @@ because she's different. "Not again! I refuse to accept it!"
 
 ### Level 5
 * **Ability Boost**: Str (+4+)
-* **Ancestry Feat**: Oni Form
+* **Ancestry Feat**: Bloodsoaked Dash
 * **Skill Increase**: Intimidation
 * **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
 
@@ -123,7 +123,8 @@ because she's different. "Not again! I refuse to accept it!"
 
 ### Level 7
 * **Ability Boost**: Str (+5)
-* **General Feat**:
+* **General Feat**: Fleet
 * **Skill Increase**: Athletics
-* **Dominion Epithet**:
+* **Dominion Epithet**: either Dancer in the Seasons or Restless as the Tides
 * **Skills**: Acrobatics (T), Athletics (M), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+* **Speed**: 30 feet
