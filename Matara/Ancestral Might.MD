@@ -1,5 +1,5 @@
 ## Ancestral Might
-###Feat 1
+### Feat 1
 `Exemplar` `Ikon`
 * **Prerequisites**: *Humble Strikes*, Ancestral Weapon Familiarity or a similar feat (like Unconventional Weaponry) that treats a specific martial or advanced weapon as a simple weapon for proficiency purposes.
 * **Usage**: one of your weapon ikons that you have familiarity with via a prerequisite feat.
