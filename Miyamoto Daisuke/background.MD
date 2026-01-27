@@ -1,3 +1,5 @@
+![Miyamoto Daisuke](miyamoto-daisuke.png)
+
 ## Background
 Miyama Daisuke was born into a wealthy family in Liu An where he enjoyed the finest education his parents
 could afford. He had a younger sister, Miyama Inoue, while he was growing up who was born with a wasting
