@@ -21,7 +21,7 @@ Liu An, but the world beyond.
 * Deity: Qi Zhong
 * Age: 20
 * Gender: Male
-* Languages: Common (Tien), Aklo, Fey
+* Languages: Common (Tien), Aklo, Fey, Empyrean
 
 ## Stats
 ### Level 1
@@ -61,6 +61,7 @@ Liu An, but the world beyond.
 * **Skill Increase**: Athletics (E), Diplomacy (T)
 * **Additional Lore**: Lore: Library (E), Lore: Liu An (E)
 * **Skills**: Acrobatics (T), Athletics (E), Diplomacy (T), Medicine (E), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (E), Lore: Liu An (E)
+* **Language**: Empyrean
 
 ### Level 4
 * **Ability Boost**: Str (+1)
