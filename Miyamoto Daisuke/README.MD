@@ -39,11 +39,13 @@ Liu An, but the world beyond.
   * **Heritage**: Versatile Human
     * **General Feat**: Battle Medicine
   * **Ancestry Feat**: Haughty Obstinacy
-  * **Background Feat**: Additional Lore: Library
+  * **Background Feat**: Additional Lore
+    * **Skill Increase**: Lore: Library (T)
   * **Kineticist Feat**: Weapon Infusion
   * **Water Impulse Feat**: Ocean's Balm
   * **Wood Impulse Feat**: Timber Sentinel
-  * **Bonus Feat**: Additional Lore: Liu An
+  * **Bonus Feat**: Additional Lore
+    * **Skill Increase**: Lore: Liu An (T)
 
 ### Level 2
 * **Ability Boost**: Wis (+2)
@@ -61,7 +63,9 @@ Liu An, but the world beyond.
   * **Ancestry Feat**: Natural Ambition
     * **Kineticist Feat**: Winter's Clutch
 * **Skill Increase**: Athletics (E)
-* **Additional Lore**: Lore: Library (E), Lore: Liu An (E)
+* **Additional Lore**:
+  * **Skill Increase**: Lore: Library (E)
+  * **Skill Increase**: Lore: Liu An (E)
 * **Skills**: Acrobatics (T), Athletics (E), Diplomacy (T), Medicine (E), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (E), Lore: Liu An (E)
 
 ### Level 4
@@ -89,5 +93,7 @@ Liu An, but the world beyond.
 * **Attribute Boost**: Con (+5)
 * **General Feat**: Robust Health
 * **Skill Increase**: Medicine (M)
-* **Additional Lore**: Lore: Library (M), Lore: Liu An (M)
+* **Additional Lore**:
+  * **Skill Increase**: Lore: Library (M)
+  * **Skill Increase**: Lore: Liu An (M)
 * **Skills**: Acrobatics (T), Athletics (E), Diplomacy (E), Medicine (M), Nature (T), Society (T), Stealth (T), Lore: Academia (T), Lore: Library (M), Lore: Liu An (M)
