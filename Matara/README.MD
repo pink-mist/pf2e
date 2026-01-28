@@ -126,6 +126,14 @@ because she's different. "Not again! I refuse to accept it!"
 * **Ability Boost**: Str (+5)
 * **General Feat**: Fleet
 * **Skill Increase**: Athletics (M)
-* **Dominion Epithet**: either Dancer in the Seasons or Restless as the Tides
+* **Dominion Epithet**: Restless as the Tides
 * **Skills**: Acrobatics (T), Athletics (M), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
 * **Speed**: 30 feet
+
+### Level 8
+* **Ability Boost**: Con (+3)
+* **Exemplar Feat**: Additional Ikon
+  * **Ikon**: Thousand League Sandals
+* **Skill Feat**: Wall Jump
+* **Free Archetype**: Advanced Maneuver (Fighter Dedication)
+  * **Fighter Feat**: Slam Down
