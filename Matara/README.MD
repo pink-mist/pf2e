@@ -127,6 +127,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **General Feat**: Fleet
 * **Skill Increase**: Athletics (M)
 * **Dominion Epithet**: Restless as the Tides
+  * **Exemplar Feat**: Energized Spark (Cold)
 * **Skills**: Acrobatics (T), Athletics (M), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
 * **Speed**: 30 feet
 
