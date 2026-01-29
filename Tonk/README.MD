@@ -17,7 +17,7 @@
   * **Base**:
 * **Skills**:
 * **Feats**
-  **Ancestry**: Very Sneaky
+  * **Ancestry**: Very Sneaky
 * **Size**: Small
 * **Speed**: 25 feet
 * **Special Abilities**: Darkvision
