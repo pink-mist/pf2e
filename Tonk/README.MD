@@ -61,7 +61,8 @@ come in to work that day had been resentful that he wasn't paid enough. So he
 had decided to try to get the restaurant to fail during their busiest day of
 the year, but with Tonk's help they had managed to serve all their customers
 without problem, and that had made the chef even angrier, so he had called on
-his cousin, Anjelique Loveless, to make trouble for them.
+his cousin, a corrupt Shieldmarshal who asked Anjelique Loveless to make
+trouble for them.
 
 
 ## Details
