@@ -86,9 +86,7 @@ because she's different. "Not again! I refuse to accept it!"
 
 ### Level 2
 * **Ability Boost**: Con (+2)
-* **Exemplar Feat**: Leap the Falls
-  * **Skill Feat**: Powerful Leap
-  * **Skill Feat**: Quick Jump
+* **Exemplar Feat**: Energized Spark (Electricity)
 * **Skill Feat**: Intimidating Glare
 * **Free Archetype**: Fighter Dedication
   * **Trained in Skill**: Thievery
@@ -107,7 +105,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **Ability Boost**: Dex (+4)
 * **Exemplar Feat**: Basic Maneuver (Fighter Dedication)
   * **Fighter Feat**: Lunge
-* **Skill Feat**: Rapid Mantel
+* **Skill Feat**: Quick Jump
 * **Free Archetype**: Reactive Striker (Fighter Dedication)
 
 ### Level 5
@@ -118,7 +116,7 @@ because she's different. "Not again! I refuse to accept it!"
 
 ### Level 6
 * **Exemplar Feat**: Motionless Cutter
-* **Skill Feat**: Intimidating Prowess
+* **Skill Feat**: Powerful Leap
 * **Free Archetype**: Advanced Maneuver (Fighter Dedication)
   * **Fighter Feat**: Intimidating Strike
 
