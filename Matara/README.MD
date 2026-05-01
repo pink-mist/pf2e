@@ -97,9 +97,9 @@ because she's different. "Not again! I refuse to accept it!"
 * **Skill Increase**: Athletics (E)
 * **General Feat**: Ancestral Paragon
   * **Ancestry Feat**: Oni Form
-* **Root Epithet**: The Brave
-  * **Trained in Skill**: Stealth
-* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (T), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+* **Root Epithet**: The Mournful / The Radiant - not sure which I prefer
+  * **Trained in Skill**: Diplomacy
+* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Diplomacy (T), Intimidation (T), Religion (T), Stealth (T), Junkyard Lore (T)
 
 ### Level 4
 * **Ability Boost**: Dex (+4)
@@ -112,7 +112,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **Ability Boost**: Str (+4+)
 * **Ancestry Feat**: Bloodsoaked Dash
 * **Skill Increase**: Intimidation (E)
-* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+* **Skills**: Acrobatics (T), Athletics (E), Deception (T), Diplomacy (T), Intimidation (E), Religion (T), Stealth (T), Junkyard Lore (T)
 
 ### Level 6
 * **Exemplar Feat**: Motionless Cutter
@@ -126,7 +126,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **Skill Increase**: Athletics (M)
 * **Dominion Epithet**: Restless as the Tides
   * **Exemplar Feat**: Energized Spark (Cold)
-* **Skills**: Acrobatics (T), Athletics (M), Deception (T), Intimidation (E), Religion (T), Stealth (T), Thievery (T), Junkyard Lore (T)
+* **Skills**: Acrobatics (T), Athletics (M), Deception (T), Diplomacy (T), Intimidation (E), Religion (T), Stealth (T), Junkyard Lore (T)
 * **Speed**: 30 feet
 
 ### Level 8
