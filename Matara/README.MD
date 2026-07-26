@@ -97,7 +97,7 @@ because she's different. "Not again! I refuse to accept it!"
 * **Skill Increase**: Athletics (E)
 * **General Feat**: Ancestral Paragon
   * **Ancestry Feat**: Oni Form
-* **Root Epithet**: The Mournful / The Radiant - not sure which I prefer
+* **Root Epithet**: The Brave
   * **Trained in Skill**: Diplomacy
 * **Skills**: Acrobatics (T), Athletics (E), Deception (T), Diplomacy (T), Intimidation (T), Religion (T), Stealth (T), Junkyard Lore (T)
 
