@@ -47,13 +47,13 @@ question.
 
 **Price** 50 gp
 
-## Vaccine (Greater) - Item 12
+## Vaccine (Greater) - Item 11
 
-**Price** 400 gp
+**Price** 300 gp
 
-## Vaccine (Major) - Item 17
+## Vaccine (Major) - Item 16
 
-**Price** 3000 gp
+**Price** 2000 gp
 
 ## Vaccine (Perfect) - Item 20
 
