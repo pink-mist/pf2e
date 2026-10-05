@@ -2,7 +2,7 @@
 
 `Alchemical` `Consumable` `Elixir` `Healing`
 
-**Bulk** -
+**Bulk** L
 
 **Usage** held in 1 hand
 
