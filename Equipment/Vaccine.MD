@@ -55,6 +55,6 @@ question.
 
 **Price** 2000 gp
 
-## Vaccine (Perfect) - Item 20
+## Vaccine (True) - Item 20
 
 **Price** 14000 gp
