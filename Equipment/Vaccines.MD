@@ -3,7 +3,9 @@
 `Alchemical` `Consumable` `Elixir` `Healing`
 
 **Bulk** -
+
 **Usage** held in 1 hand
+
 **Activate** 1 action (manipulate)
 
 A vaccine grants a creature an item bonus or immunity on all saving throws vs a
@@ -11,7 +13,8 @@ specific disease for a full year, and related diseases may get bonuses as well,
 depending on their level. For instance, a moderate vaccine (6) against a
 Harpy's Putrid Plague (5) would give a +2 bonus against that specific disease,
 and immunity against a Giant Rat's Putrid Plague (-1).
-  The bonus or immunity depends on the level of the disease and vaccine as
+
+The bonus or immunity depends on the level of the disease and vaccine as
 shown in the table below.
 
 | Vaccine level             | Specific Disease | Related Disease |
